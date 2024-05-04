@@ -1,5 +1,4 @@
 # This is the module containing class definitions to construct a CFG plus the Earley specific classes Item and TableCell
-# Additions have been made to the TableCell class introducing __getitem__ and __len__ magic methods for that class.
 
 class Symbol:
     # field name: String
