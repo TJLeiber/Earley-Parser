@@ -57,7 +57,7 @@ if __name__ == "__main__":
         name="NL grammar"
     )
 
-    # we need some iterative to iterate over words in a natural language sentence the same way we would iterate over the tokens of a word in a formal language
+    # we need some iterable to iterate over words in a natural language sentence the same way we would iterate over the tokens of a word in a formal language
     word = "book that flight".split()
 
     print("-------------------natural language grammar-------------------")
